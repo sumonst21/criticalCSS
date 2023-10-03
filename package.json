@@ -30,7 +30,7 @@
     "css": "^2.2.1",
     "fs-extra": "^7.0.0",
     "lodash": "^4.15.0",
-    "postcss": "^5.0.19",
+    "postcss": "^8.4.31",
     "postcss-initial": "^1.5.1",
     "promise.prototype.finally": "^3.1.0",
     "puppeteer": "^1.9.0",
